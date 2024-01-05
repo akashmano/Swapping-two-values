@@ -18,10 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-n1 = int(input())
-n2 = int(input())
-n1,n2 = n2,n1
-print("Swapped values are:",n1,n2)
+#Program to swap two values.
+#Developed by:akash m
+#RegisterNumber: 23004227
+```
+a=input()
+b=input()
+print("Swapped values are: {} {}".format(b,a))
+```
+## OUTPUT:
+![Screenshot 2024-01-05 132109](https://github.com/akashmano/Swapping-two-values/assets/137408306/af1820d3-6f10-44cc-b595-b384ec60114b)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
